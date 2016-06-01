@@ -107,7 +107,7 @@
 		<profile>
 			<id>snapshots</id>
 			<activation>
-				<activeByDefault>false</activeByDefault>
+				<activeByDefault>true</activeByDefault>
 			</activation>
 			<repositories>
 				<repository>
